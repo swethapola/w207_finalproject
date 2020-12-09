@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
 .*.icloud
+ohe_df.*
+final_data.csv
+tweets.csv

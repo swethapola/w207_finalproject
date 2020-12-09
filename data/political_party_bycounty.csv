@@ -1,0 +1,59 @@
+,county,biden_votes,biden_percent,trump_votes,trump_percent,biden_yes
+0,Alameda County,617486,80.2,136238,17.7,1
+1,Alpine County,473,64.7,238,32.6,1
+2,Amador County,8153,36.6,13585,60.9,0
+3,Butte County,50416,49.4,48723,47.8,1
+4,Calaveras County,9845,36.8,16287,61.0,0
+5,Colusa County,3234,40.7,4554,57.3,0
+6,Contra Costa County,416316,71.6,152847,26.3,1
+7,Del Norte County,4659,40.8,6444,56.4,0
+8,El Dorado County,51621,44.4,61838,53.2,0
+9,Fresno County,192118,52.9,163880,45.1,1
+10,Glenn County,3939,35.3,7000,62.7,0
+11,Humboldt County,43633,65.2,21069,31.5,1
+12,Imperial County,33964,61.3,20276,36.6,1
+13,Inyo County,4623,48.9,4611,48.7,1
+14,Kern County,131957,43.6,163199,54.0,0
+15,Kings County,18627,42.6,24020,54.9,0
+16,Lake County,6874,62.3,3955,35.8,1
+17,Lassen County,2775,23.5,8814,74.7,0
+18,Los Angeles County,3024321,71.0,1143687,26.9,1
+19,Madera County,23168,43.1,29378,54.7,0
+20,Marin County,128262,82.3,24610,15.8,1
+21,Mariposa County,4088,39.8,5950,57.9,0
+22,Mendocino County,28782,66.4,13267,30.6,1
+23,Merced County,48991,54.1,39397,43.5,1
+24,Modoc County,1150,26.5,3109,71.7,0
+25,Mono County,4013,59.6,2513,37.3,1
+26,Monterey County,113953,69.5,46299,28.3,1
+27,Napa County,49817,69.1,20676,28.7,1
+28,Nevada County,36359,56.2,26779,41.4,1
+29,Orange County,814009,53.5,676498,44.5,1
+30,Placer County,104134,45.5,119013,52.1,0
+31,Plumas County,4561,40.5,6445,57.3,0
+32,Riverside County,527475,53.0,448281,45.0,1
+33,Sacramento County,440790,61.4,259394,36.1,1
+34,San Benito County,17604,61.1,10582,36.8,1
+35,San Bernardino County,454495,54.2,365400,43.6,1
+36,San Diego County,964269,60.2,599751,37.5,1
+37,San Francisco County,377772,85.3,56329,12.7,1
+38,San Joaquin County,154722,56.0,115720,41.9,1
+39,San Luis Obispo County,88310,55.3,67436,42.2,1
+40,San Mateo County,291372,77.9,75547,20.2,1
+41,Santa Barbara County,129963,64.9,65736,32.8,1
+42,Santa Clara County,617824,72.7,214538,25.2,1
+43,Santa Cruz County,113874,78.9,26821,18.6,1
+44,Shasta County,29874,32.4,60372,65.4,0
+45,Sierra County,730,37.8,1142,59.2,0
+46,Siskiyou County,9591,40.9,13288,56.7,0
+47,Solano County,131639,64.0,69306,33.7,1
+48,Sonoma County,199938,74.5,61825,23.0,1
+49,Stanislaus County,105841,49.3,104145,48.5,1
+50,Sutter County,17364,40.7,24372,57.2,0
+51,Tehama County,8901,31.0,19137,66.7,0
+52,Trinity County,2851,45.6,3188,50.9,0
+53,Tulare County,66105,45.0,77579,52.8,0
+54,Tuolumne County,11978,39.4,17689,58.2,0
+55,Ventura County,251298,59.5,162146,38.4,1
+56,Yolo County,66357,69.5,26737,28.0,1
+57,Yuba County,10343,37.8,16210,59.3,0
